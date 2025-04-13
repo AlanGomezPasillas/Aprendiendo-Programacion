@@ -1,0 +1,14 @@
+Inicio
+
+Agregar Pan
+Agregar Condimentos
+
+Si hay Jamon
+	Entonces Agregar Jamon
+Sino
+	Entonces Comprar Jamon
+	Agregar Jamon
+
+Agregar Queso
+Agregar Pan
+Fin
