@@ -1,3 +1,3 @@
 Algoritmo HolaMundo
-	Escribir ("HolaMundo")
+	Escribir "Hola Mundo soy Alan =)"
 FinAlgoritmo
